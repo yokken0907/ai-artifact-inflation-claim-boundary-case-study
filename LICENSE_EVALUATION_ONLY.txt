@@ -1,0 +1,18 @@
+Evaluation-Only Public License Notice
+
+Copyright (c) 2026 Keiji Yoshimura.
+
+This repository package is made publicly available for reading, evaluation, criticism, moderation, educational discussion, reproducibility-oriented inspection, and archival reference.
+
+Permission is granted to view, download, cite, quote within normal scholarly and critical limits, and evaluate the materials, provided that the claim boundaries in the repository are preserved.
+
+This notice does not grant permission to:
+
+1. present the work as a validated battery-engineering result;
+2. present the work as a validated cosmological result;
+3. present the work as a statistical proof about all AI-assisted research;
+4. remove or obscure the claim-boundary statements;
+5. use the materials as a clinical, engineering, safety, policy, or deployment recommendation; or
+6. imply institutional endorsement or peer-reviewed validation where none is stated.
+
+For reuse beyond evaluation, quotation, review, or ordinary scholarly reference, contact the author or follow the license terms stated in the current repository release.

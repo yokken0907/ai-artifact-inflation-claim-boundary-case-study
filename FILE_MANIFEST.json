@@ -1,0 +1,117 @@
+{
+  "generated_for": "ai-artifact-inflation-claim-boundary-case-study_v0.1.3_public_landing_metadata_refresh",
+  "version": "v0.1.3-public-landing-and-metadata-refresh",
+  "file_count": 22,
+  "files": [
+    {
+      "path": ".github/FUNDING.yml",
+      "size_bytes": 88,
+      "sha256": "873c310707877eea90e92f76dcf9f78fce2872d856a558d32b18689b00a9b83c"
+    },
+    {
+      "path": ".zenodo.json",
+      "size_bytes": 1597,
+      "sha256": "67f9ca715b2339da42de0d9f974dcce4664a83c92d2587f88d61f1bbf089cb01"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1073,
+      "sha256": "4b40b703b917edc215d7215406be21ac59f3a75911f6d67712f351cdaf4d4795"
+    },
+    {
+      "path": "LICENSE_EVALUATION_ONLY.txt",
+      "size_bytes": 1099,
+      "sha256": "25926957b66a4e2c0954dc7f77f67167a774a6edce7503455e515ef1214f135f"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4215,
+      "sha256": "93f7fe7ee25924af1efc44dc35f675a5eaf91488c9994d1b0926f1e84b5a7e20"
+    },
+    {
+      "path": "README_ja.md",
+      "size_bytes": 2787,
+      "sha256": "f1747b4dec6cd17f753878fce840126e1f7fd94d63f7d748cf4aae729e6a2b53"
+    },
+    {
+      "path": "docs/CASE_EVIDENCE_MAP.md",
+      "size_bytes": 1729,
+      "sha256": "7bc7164bede9261f25cbce6ceb1c46c3409028be456811519195d8816048b9c9"
+    },
+    {
+      "path": "docs/CLAIM_BOUNDARY.md",
+      "size_bytes": 2742,
+      "sha256": "e979e47847ee8a508b6653c05871a6537e68b71522e9fd353acc07951be0be1e"
+    },
+    {
+      "path": "docs/REVIEWER_NOTE.md",
+      "size_bytes": 1167,
+      "sha256": "4b886f29007b60904a77ab3bdcadfbe77d7e01bdea2b0193cc19447c437c81ba"
+    },
+    {
+      "path": "docs/VERSION_NOTES.md",
+      "size_bytes": 1128,
+      "sha256": "09aaf9a203285b04a6cbf39026b854674c0336a09ae8e52f8a779188c1cc19af"
+    },
+    {
+      "path": "docs/index.html",
+      "size_bytes": 3945,
+      "sha256": "750411dbefc7593d8f7db6ad01fa2be6235fd02927ab0bd3e3943cf2fa64dc21"
+    },
+    {
+      "path": "docs/project_visual_orientation/index.html",
+      "size_bytes": 2233,
+      "sha256": "13ade38ae6a64ea19e6a9824e582be32edc725b3f154766bc1feb70d71c4bc47"
+    },
+    {
+      "path": "docs/robots.txt",
+      "size_bytes": 122,
+      "sha256": "c5b4f3d6c31d316e57e9fc54291217d8175cbb307f0f403b616f74b9efa2cdd6"
+    },
+    {
+      "path": "docs/sitemap.xml",
+      "size_bytes": 425,
+      "sha256": "e35c49277b446bf57f8c4e49f9c16a48566374b8a07b3010eece1875d99e7aa4"
+    },
+    {
+      "path": "docs/style.css",
+      "size_bytes": 1336,
+      "sha256": "9c8ee3ee374844d6b23da9ca5d95c8fc0fe06aa53b50a7346475df8171012f8c"
+    },
+    {
+      "path": "metadata/GITHUB_REPOSITORY_DETAILS.md",
+      "size_bytes": 638,
+      "sha256": "6df757da63e1dc4d9e6b83db6be6fcc2ee0581dc59ab4214dc1c74b5b3598829"
+    },
+    {
+      "path": "metadata/ZENODO_METADATA_DRAFT.md",
+      "size_bytes": 2855,
+      "sha256": "715d2328b849ca6e328e335063d3d6e4e30e25992506a37a45c8169dadb7dcd6"
+    },
+    {
+      "path": "paper/artifact_inflation_without_epistemic_grounding_v0_1_2_ai_vixra_final.pdf",
+      "size_bytes": 78907,
+      "sha256": "b13b8e63403f27c9c1b1fb62ab4da88807d559eb5b82f25bb01d0574c939903c"
+    },
+    {
+      "path": "paper/artifact_inflation_without_epistemic_grounding_v0_1_2_ai_vixra_final.tex",
+      "size_bytes": 28344,
+      "sha256": "1f4187dbf1544d0bf512e27a6cad842e34f418f5e95be2a9ed32991c5e860273"
+    },
+    {
+      "path": "paper/pdf_preflight.txt",
+      "size_bytes": 242,
+      "sha256": "b4944024e9f5f1c88ee6444494ffa6c0ee9b1f59c364dd67205a0b5ff942dd97"
+    },
+    {
+      "path": "scripts/verify_manifest.py",
+      "size_bytes": 907,
+      "sha256": "bf479e107b678af64625884268868040c458af5e9ad95db3b8a98bd46aaca864"
+    },
+    {
+      "path": "submission/AIVIXRA_METADATA_FINAL.md",
+      "size_bytes": 2921,
+      "sha256": "da1e5f6b40f1b8a337f4cf362f36f722696fea109f5716a9b058222d9945b83c"
+    }
+  ]
+}

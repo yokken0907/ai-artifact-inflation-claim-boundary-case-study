@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokken0907.github.io/ai-artifact-inflation-claim-boundary-case-study/sitemap.xml

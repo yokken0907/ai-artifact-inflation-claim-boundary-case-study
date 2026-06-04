@@ -1,0 +1,34 @@
+{
+  "title": "Artifact Inflation Without Epistemic Grounding v0.1.3: A Claim-Bounded Case Study of Non-Expert AI-Assisted Research",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji"
+    }
+  ],
+  "description": "A claim-bounded public repository refresh of a reflexive case study on artifact inflation, epistemic grounding failure, and claim-boundary control in non-expert AI-assisted research. It preserves the v0.1.2 ai.vixra-oriented manuscript and adds public landing pages, metadata drafts, claim-boundary orientation, and regenerated manifests. It does not claim a battery technology, BMS method, cosmological solution, observational likelihood, MCMC posterior, evidence comparison, or a statistical conclusion about all AI-assisted research.",
+  "version": "v0.1.3-public-landing-and-metadata-refresh",
+  "publication_date": "2026-06-04",
+  "license": "other-open",
+  "keywords": [
+    "generative AI",
+    "AI-assisted research",
+    "artifact inflation",
+    "epistemic grounding",
+    "claim boundary",
+    "failure boundary",
+    "non-expert research",
+    "research integrity",
+    "AI literacy",
+    "negative results",
+    "methodological case study",
+    "open science"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/yokken0907/ai-artifact-inflation-claim-boundary-case-study",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "License terms are defined in the repository license files. This repository is an evaluation-oriented archive and does not present validated battery-engineering or cosmological results."
+}

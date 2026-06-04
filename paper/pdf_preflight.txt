@@ -1,0 +1,6 @@
+PDF: /mnt/data/ai_artifact_inflation_case_study_v0_1_2_ai_vixra_final/paper/artifact_inflation_without_epistemic_grounding_v0_1_2_ai_vixra_final.pdf
+Pages: 10
+Encrypted: False
+Openable (PyMuPDF): True
+Likely scanned: False
+XFA present: False

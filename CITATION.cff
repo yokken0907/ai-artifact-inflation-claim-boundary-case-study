@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or discuss this repository, please cite it using the metadata below."
+title: "Artifact Inflation Without Epistemic Grounding v0.1.3: A Claim-Bounded Case Study of Non-Expert AI-Assisted Research"
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+version: "v0.1.3-public-landing-and-metadata-refresh"
+date-released: "2026-06-04"
+url: "https://github.com/yokken0907/ai-artifact-inflation-claim-boundary-case-study"
+repository-code: "https://github.com/yokken0907/ai-artifact-inflation-claim-boundary-case-study"
+abstract: "A claim-bounded reflexive case study of artifact inflation, epistemic grounding failure, and claim-boundary control in non-expert AI-assisted research. This repository is not a battery-technology result, not a cosmological result, and not a statistical evaluation of all AI-assisted science."
+keywords:
+  - generative AI
+  - AI-assisted research
+  - artifact inflation
+  - epistemic grounding
+  - claim boundary
+  - failure boundary
+  - non-expert research
+  - research integrity
+license: "other-open"
